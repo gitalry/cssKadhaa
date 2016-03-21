@@ -34,3 +34,15 @@ border-color: greenyellow;
     height: 100px;
     text-align: center;
 }
+#left {
+    background-color: green;
+    font-family: arial;
+   
+    font-size: 26;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    margin-top: 20;
+    height: 100px;
+    text-align: center;
+}
