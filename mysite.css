@@ -1,0 +1,89 @@
+body {
+     background-image: url("../img/teclado2014.jpg");
+font-family: 'Poiret One', cursive;
+    font-family: 'Ubuntu', sans-serif;
+}
+.home{
+    background-image: url("../img/teclado2014.jpg");
+}
+.intro{
+    object-position: center;
+    opacity: 100%
+}
+}
+html {
+    font-family: 'Poiret One', cursive;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: left;
+}
+
+p {
+    border: 2px solid white;
+    color: white;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+}
+porti{
+    padding-top: 60px;
+}
+a {
+    color: white;
+font-family: 'Ubuntu', sans-serif;
+}
+
+.submit-button {
+    background-color: chartreuse;
+    color: darkgreen;
+}
+
+submit-button {
+    background-color: chartreuse;
+    color: darkgreen;
+}
+.empty {
+    height: 50%;
+}
+.empty2 {
+    height: 39%;
+}
+
+span {
+    color: white;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: 333;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+/* Change the link color to #111 (black) on hover */
+
+li a:hover {
+    background-color: black;
+}
